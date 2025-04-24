@@ -7,7 +7,6 @@ I'm a former Energy Engineering student turned Data Scientist with a strong inte
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VItaliKStud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📌 Featured Projects
 - 🎯 **Synthetic Gamma Spectrum Generation**  
   AI-assisted data generation to improve nuclide detection accuracy  
   *(M.Sc. thesis, 2025)*
