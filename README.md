@@ -7,7 +7,7 @@ I'm a former Energy Engineering student turned Data Scientist with a strong inte
 
 ## 🛠️ Tech Stack
 **Languages & Libraries:**  
-Python, R, SQL, Bash, VBA  
+Python, R, SQL, Bash  
 NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch, Plotly Dash, Streamlit, Flask, FastAPI  
 
 **Data & Infrastructure:**  
