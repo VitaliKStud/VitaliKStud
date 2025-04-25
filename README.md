@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vitali  
-### Data Scientist | Engineer | Problem Solver
+### Data Scientist | Engineer
 
 I'm a former Energy Engineering student turned Data Scientist with a strong interest in AI, synthetic data, and end-to-end data pipelines. I enjoy translating complex data into actionable insights, building scalable ML solutions, and automating processes that make life easier.
 
